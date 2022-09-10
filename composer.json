@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "name": "junyang7/b",
+  "autoload": {
+    "psr-4": {
+      "Junyang7\\B\\": "/src"
+    }
+  }
+}
